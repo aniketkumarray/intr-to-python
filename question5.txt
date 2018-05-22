@@ -1,0 +1,8 @@
+s=input("s")
+sAcadview
+>>> course=input("enter course")
+enter course pyhton
+>>> fees=input("enter fees")
+enter fees5000
+>>> print("you train at %s in course %s and the fees is %s" %  (s,course,fees))
+you train at Acadview in course  pyhton and the fees is 5000

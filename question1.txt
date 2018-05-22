@@ -1,0 +1,3 @@
+>>> print("my assignment for pyhton ,question one")
+my assignment for pyhton ,question one
+

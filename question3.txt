@@ -1,0 +1,9 @@
+>>> x=input("input the 1st value")
+input the 1st value20
+>>> y=input("input the 2nd value")
+input the 2nd value30
+>>> z=input("input the 3rd value")
+input the 3rd value40
+>>> print(x,y,z)
+20 30 40
+
